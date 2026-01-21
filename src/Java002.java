@@ -4,6 +4,6 @@ public class Java002 {
 
         System.out.println("Hello Yedhu");
         System.out.println("Java");
-
+        System.out.println(8 + 9);
     }
 }
