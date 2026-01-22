@@ -5,5 +5,6 @@ public class Java002 {
         System.out.println("Hello Yedhu");
         System.out.println("Java");
         System.out.println(8 + 9);
+        System.out.println(9 * 8);
     }
 }
