@@ -8,6 +8,7 @@ public class Java002 {
         System.out.println(9 * 8);
         System.out.println(99 * 89);
         System.out.println(78*22);
+        System.out.println(27/9);
         System.out.println(84/21);
     }
 }
