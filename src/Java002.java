@@ -10,6 +10,6 @@ public class Java002 {
         System.out.println(78*22);
         System.out.println(27/9);
         System.out.println(58 + 50);
-        System.out.println(84/21);
+        System.out.println(84-21);
     }
 }
